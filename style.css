@@ -61,8 +61,8 @@ a {
   }
 
   .fa-tiktok {
-    font-size: 4em;
+    font-size: 4em !important;
     text-shadow: 4px 4px #ff3353fc,
-      -4px -4px cyan;
+      -4px -4px cyan !important;
   }
 }
