@@ -10,11 +10,12 @@ h1 {
 }
 
 h2 {
-color: white;
-font-size: 40px;
+  color: white;
+  font-size: 40px;
 }
 
-h3, a {
+h3,
+a {
   color: white;
   font-size: 20px;
 }
@@ -25,4 +26,21 @@ h3, a {
   background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
   background-clip: text;
   -webkit-background-clip: text;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-container a {
+  margin: 0 20px;
+}
+
+.fa-tiktok {
+  color: #fff;
+  font-size: 6em;
+  text-shadow: 6px 6px #ff3353fc,
+    -6px -6px cyan;
 }
