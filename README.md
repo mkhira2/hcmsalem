@@ -2,4 +2,4 @@
 
 🚧 Website for Hill Country Market Salem - Coming soon! 🚧
 
-In the meantime, follow us on Instagram: @hill_country_mkt
+In the meantime, follow us on Instagram: [@hill_country_mkt](https://www.instagram.com/hill_country_mkt/)
